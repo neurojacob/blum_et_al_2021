@@ -8,7 +8,7 @@ install_version("gplots", version = "3.1.0", repos = "http://cran.us.r-project.o
 install_version("ggthemes", version = "4.2.0", repos = "http://cran.us.r-project.org")
 install_version("Seurat", version = "3.2.2", repos = "http://cran.us.r-project.org")
 
-if (!requireNamespace("BiocManager", quietly = TRUE))
-        install.packages("BiocManager")
+#if (!requireNamespace("BiocManager", quietly = TRUE))
+#        install.packages("BiocManager")
 
-BiocManager::install("ComplexHeatmap")
+#BiocManager::install("ComplexHeatmap")
