@@ -1,4 +1,4 @@
-# Blum et al. 2020
+# Blum et al. 2021
 
 This is an accompanying code repository for the manuscript: "Single-cell transcriptomic analysis of the adult mouse spinal cord reveals molecular diversity of autonomic and skeletal motor neurons"
 
